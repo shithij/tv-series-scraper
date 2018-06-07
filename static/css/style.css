@@ -1,0 +1,17 @@
+body{
+	background: no-repeat fixed;
+	background-image: url('/static/images/bm.jpg');
+	
+}
+
+#list{
+	background-color: white;
+	opacity: 0.6;
+	font-family: segoe UI;
+	font-size: 10px;
+	width: 1000px;
+    border: 25px blue;
+    padding: 25px;
+    margin: 25px auto;
+
+}
